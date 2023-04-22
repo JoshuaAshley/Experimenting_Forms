@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             pnlTitle = new Panel();
+            btnMinimize = new RoundButton();
             lblTitle = new Label();
             btnClose = new RoundButton();
             pnlNavigationMenu = new Panel();
@@ -38,6 +39,7 @@
             // pnlTitle
             // 
             pnlTitle.BackColor = Color.FromArgb(244, 132, 70);
+            pnlTitle.Controls.Add(btnMinimize);
             pnlTitle.Controls.Add(lblTitle);
             pnlTitle.Controls.Add(btnClose);
             pnlTitle.Dock = DockStyle.Top;
@@ -45,6 +47,20 @@
             pnlTitle.Name = "pnlTitle";
             pnlTitle.Size = new Size(658, 65);
             pnlTitle.TabIndex = 1;
+            // 
+            // btnMinimize
+            // 
+            btnMinimize.BackColor = Color.Yellow;
+            btnMinimize.FlatAppearance.BorderSize = 0;
+            btnMinimize.FlatStyle = FlatStyle.Flat;
+            btnMinimize.Font = new Font("Segoe UI", 20F, FontStyle.Bold, GraphicsUnit.Point);
+            btnMinimize.Image = Properties.Resources.Minimize_Icon;
+            btnMinimize.Location = new Point(560, 12);
+            btnMinimize.Name = "btnMinimize";
+            btnMinimize.Size = new Size(40, 40);
+            btnMinimize.TabIndex = 4;
+            btnMinimize.UseVisualStyleBackColor = false;
+            btnMinimize.Click += btnMinimize_Click;
             // 
             // lblTitle
             // 
@@ -63,11 +79,11 @@
             btnClose.FlatAppearance.BorderSize = 0;
             btnClose.FlatStyle = FlatStyle.Flat;
             btnClose.Font = new Font("Segoe UI", 16F, FontStyle.Bold, GraphicsUnit.Point);
+            btnClose.Image = Properties.Resources.Close_Icon;
             btnClose.Location = new Point(606, 12);
             btnClose.Name = "btnClose";
             btnClose.Size = new Size(40, 40);
             btnClose.TabIndex = 3;
-            btnClose.Text = "x";
             btnClose.UseVisualStyleBackColor = false;
             btnClose.Click += btnClose_Click;
             // 
@@ -100,5 +116,6 @@
         private Panel pnlNavigationMenu;
         private Label lblTitle;
         private RoundButton btnClose;
+        private RoundButton btnMinimize;
     }
 }

@@ -2,6 +2,7 @@
 
 namespace Expertimenting_With_Forms
 {
+
     public partial class TestCookingApp : Form
     {
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
@@ -20,11 +21,17 @@ namespace Expertimenting_With_Forms
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.None;
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 60, 60));
+
         }
 
         private void btnClose_Click(object sender, EventArgs e)
         {
             Environment.Exit(0);
+        }
+
+        private void btnMinimize_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
         }
     }
 }
