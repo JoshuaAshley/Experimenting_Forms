@@ -33,5 +33,20 @@ namespace Expertimenting_With_Forms
         {
             this.WindowState = FormWindowState.Minimized;
         }
+
+        private void btnAddRecipe_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World");
+        }
+
+        //errors here
+        private void tbSearch_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)13)
+            {
+                e.Handled = true;
+                //SendKeys.Send("{TAB}");
+            }
+        }
     }
 }
