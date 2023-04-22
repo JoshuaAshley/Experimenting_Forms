@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Expertimenting_With_Forms/1.0.0": {
+        "runtime": {
+          "Expertimenting_With_Forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expertimenting_With_Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

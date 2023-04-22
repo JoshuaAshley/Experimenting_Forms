@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expertimenting_With_Forms", "Expertimenting_With_Forms\Expertimenting_With_Forms.csproj", "{A259CC5A-8D1A-4C2F-8014-E11C115AD98D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A259CC5A-8D1A-4C2F-8014-E11C115AD98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A259CC5A-8D1A-4C2F-8014-E11C115AD98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A259CC5A-8D1A-4C2F-8014-E11C115AD98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A259CC5A-8D1A-4C2F-8014-E11C115AD98D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925BA095-8469-48D2-92E8-5D514CD893F4}
+	EndGlobalSection
+EndGlobal

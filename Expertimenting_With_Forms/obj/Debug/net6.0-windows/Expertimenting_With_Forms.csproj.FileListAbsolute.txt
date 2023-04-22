@@ -1,0 +1,17 @@
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\bin\Debug\net6.0-windows\Expertimenting_With_Forms.exe
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\bin\Debug\net6.0-windows\Expertimenting_With_Forms.deps.json
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\bin\Debug\net6.0-windows\Expertimenting_With_Forms.runtimeconfig.json
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\bin\Debug\net6.0-windows\Expertimenting_With_Forms.dll
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\bin\Debug\net6.0-windows\Expertimenting_With_Forms.pdb
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.csproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.SplashScreen.resources
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.AssemblyInfoInputs.cache
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.AssemblyInfo.cs
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.dll
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\refint\Expertimenting_With_Forms.dll
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.pdb
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.genruntimeconfig.cache
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\ref\Expertimenting_With_Forms.dll
