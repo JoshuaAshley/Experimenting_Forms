@@ -12,7 +12,8 @@ namespace Expertimenting_With_Forms
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             //Application.Run(new SplashScreen());
-            Application.Run(new ImageTesting());
+            //Application.Run(new ImageTesting());
+            Application.Run(new TestCookingApp());
         }
     }
 }
