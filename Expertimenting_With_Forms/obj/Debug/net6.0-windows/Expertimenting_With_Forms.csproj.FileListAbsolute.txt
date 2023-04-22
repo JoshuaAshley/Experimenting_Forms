@@ -15,3 +15,4 @@ C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms
 C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.pdb
 C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.genruntimeconfig.cache
 C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\ref\Expertimenting_With_Forms.dll
+C:\Users\Joshua\source\repos\Expertimenting_With_Forms\Expertimenting_With_Forms\obj\Debug\net6.0-windows\Expertimenting_With_Forms.ImageTesting.resources
